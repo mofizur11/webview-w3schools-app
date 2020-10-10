@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:enabled="true"
+        android:title="@string/home_title" />
+    <item
+        android:id="@+id/nav_python"
+        android:enabled="true"
+        android:icon="@drawable/ic_python"
+        android:title="@string/store_title" />
+    <item
+        android:id="@+id/nav_php"
+        android:enabled="true"
+        android:icon="@drawable/ic_php"
+        android:title="@string/product_title" />
+    <item
+        android:id="@+id/nav_java"
+        android:enabled="true"
+        android:icon="@drawable/ic_java"
+        android:title="@string/cart_title" />
+    <item
+        android:id="@+id/nav_jQuery"
+        android:enabled="true"
+        android:icon="@drawable/ic_jquery"
+        android:title="@string/account_title" />
+</menu>

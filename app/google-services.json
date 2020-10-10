@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113008641149",
+    "firebase_url": "https://amrai-best.firebaseio.com",
+    "project_id": "amrai-best",
+    "storage_bucket": "amrai-best.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113008641149:android:6dd32ed31e64001faa5d14",
+        "android_client_info": {
+          "package_name": "com.w3schools.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113008641149-mv6ki3nokflvuth6rl17fmheskd3u3g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQUSelceXulwCqp1FV7hppghQ9WY8-90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113008641149-mv6ki3nokflvuth6rl17fmheskd3u3g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
